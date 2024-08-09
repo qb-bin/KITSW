@@ -1,4 +1,4 @@
-class Ternary {
+class Scope {
     public static void main() {
         int x = 10;
         if (x == 10) {
