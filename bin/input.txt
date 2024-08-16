@@ -1,0 +1,8 @@
+#define PI 3.14159
+#define AREA_OF_CIRCLE(r)(PI*(r)*(r))
+#include<stdio.h>
+int main()
+{
+	float radius=5.0;
+	printf("Area of Circle with radius %2f is %2f\n",radius,AREA_OF_CIRCLE(radius));
+}
