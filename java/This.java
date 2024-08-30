@@ -5,7 +5,7 @@ class ThisObj {
         name = n;
     }
     void print() {
-        System.out.println(this.rno + " " + this.name);
+        System.out.println(rno + " " + name);
     }    
 }
 
